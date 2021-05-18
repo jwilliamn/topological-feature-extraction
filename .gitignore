@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Data
+chmt_preproc/
+preproc_data/
+preproc_data_/
+raw_data/
+
+
 # Distribution / packaging
 .Python
 build/
